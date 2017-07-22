@@ -9,6 +9,6 @@ public class Test2Controller {
 
 	@RequestMapping("getData2")
 	public @ResponseBody String getData2(){
-		return "This is from getData2";
+		return "This is hjbjb from getData2";
 	}
 }
